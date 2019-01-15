@@ -1,0 +1,11 @@
+server:
+  port: 8701
+
+spring:
+  application:
+    name: eurka-service
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8700/eureka/

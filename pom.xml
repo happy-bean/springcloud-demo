@@ -6,6 +6,7 @@
 	<modules>
 		<module>springcloud-demo-server</module>
 		<module>springcloud-demo-client</module>
+		<module>springcloud-demo-customer</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>

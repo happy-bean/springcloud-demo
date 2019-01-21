@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @description
  **/
 @RestController
-public class HelloControler {
+public class HelloController {
 
     @Autowired
     private HelloService helloService;
